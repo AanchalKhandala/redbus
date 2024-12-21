@@ -1,34 +1,6 @@
 # Red-Bus-Clone
 
-Blog of our web application - 
-https://vishalvsk.blogspot.com/2022/08/our-construct-week-from-masai-code-for.html
 
-
-A brief description of what this project does and who it's for
-
-Red-Bus is India's largest online bus ticketing platform that has transformed bus travel in the country by bringing ease and convenience to millions of Indians who travel using buses. Founded in 2006, redBus is part of India's leading online travel company MakeMyTrip Limited 
-
-
-## 🔗 Links
-Team Mates - 
-
-1. Akram Ali     - https://github.com/akram3598786
-2. Mohit Sharma  - https://github.com/mohitsharma9001
-3. Vishal Karale - https://github.com/vishalvsk
-4. Akash Jadhav  - https://github.com/Akashjadhav55
-
-## Built with
-
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>JSON Server</li>
-  <li>Local Storage</li>
-  <li>Heroku</li>
-  <li>Postman</li>
-  <li>Netlify</li>
-</ul>
 
 ## Home Page
 
